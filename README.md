@@ -24,19 +24,19 @@
 
 ### Задание 1
 
-https://github.com/Furious992/GitNet/blob/main/README.md
+https://github.com/Furious992/GitNet/commit/b6ab6b408c28f2ff1342daf84087015e73010ed3
 
 ---
 
 ### Задание 2
 
-https://github.com/Furious992/GitNet/blob/main/.gitignore
+https://github.com/Furious992/GitNet/commit/47ed5f58fed0668a426784cc3aab56856c18cce5
 
 ---
 
 ### Задание 3
 
-https://github.com/Furious992/GitNet/network
+https://github.com/Furious992/https-github.com-Furious992-8-03-hw./blob/main/img/Git.png
 
 ### Задание 4
 
